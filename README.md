@@ -1,1 +1,1 @@
-# Coursera
+This is a basic HTML code to print "HTML" as heading and "Introduction to HTML pages" as paragraph text
